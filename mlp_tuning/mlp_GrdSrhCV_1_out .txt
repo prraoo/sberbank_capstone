@@ -1,0 +1,8 @@
+Wall time: 1h 2min 25s
+Best: -7438891490492.763672 using {'epochs': 100, 'batch_size': 32}
+-11461800533258.636719 (5449874110379.015625) with: {'epochs': 50, 'batch_size': 32}
+-7438891490492.763672 (498341331385.429932) with: {'epochs': 100, 'batch_size': 32}
+-19141998313748.226562 (16747175403051.546875) with: {'epochs': 50, 'batch_size': 64}
+-8568411637808.751953 (1088367806766.440918) with: {'epochs': 100, 'batch_size': 64}
+The best results are: -7.43889149049e+12 {'epochs': 100, 'batch_size': 32}
+he

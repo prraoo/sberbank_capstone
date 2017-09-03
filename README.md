@@ -27,6 +27,14 @@ In order to run the project, Python 3.5 (preferably using Anaconda platform) is 
 
 The exact version of the packages and the environment used for the project can be found in [project environment](https://github.com/raoanonymous/sberbank_capstone/tree/master/environment).
 
+## Acknowlegements
+
+I would like to acknowledge following community/ people without whom this project would have been not possible:
+
+- Sberbank for share the precious real-estate datasets.
+- Kaggle Community for hosting the competition and sharing ideas.
+- [dnkirill](https://github.com/dnkirill) for sharing a structural approach to solve ML problems for beginners.
+- Finally, Udacity for giving opportunity for the students to implement a project of choice.
 
 
 

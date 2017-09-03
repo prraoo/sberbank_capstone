@@ -10,7 +10,7 @@ This project is divided into different notebooks, a brief rundown of the various
 - **Part3** [MLP Model](https://github.com/raoanonymous/sberbank_capstone/blob/master/NN_Model.ipynb): Using Keras with TensorFlow library in the backend, neural network model is built. The model is check for overfitting and also using sklearn GridSearch method, hyper-parameters are tuned to get the optimal model.
 - **Part 4** [Stacking and Validation](https://github.com/raoanonymous/sberbank_capstone/blob/master/FinalStacking.ipynb): In this last section, the predictions from the base models are combined using Linear Regression Model and also the model is validated for its robustness.
 
-The entire project implemetation, methodology and results are summarized in Capstone Report without delving deep into the project.
+The entire project implemetation, methodology and results are summarized in [Capstone Report](https://github.com/raoanonymous/sberbank_capstone/blob/master/report.pdf) without delving deep into the project.
 
 ## Requirements: 
 
@@ -25,7 +25,7 @@ In order to run the project, Python 3.5 (preferably using Anaconda platform) is 
 - XGBoost: multi-threaded xgboost should be compiled, xgboost python package is also required.
 - Deep Learning stack: CUDA 8.0.61, cuDNN v6, tensorflow-gpu 1.2.1 (compiled with GPU flags), Keras. 
 
-The exact version of the packages and the environment used for the project can be found in 
+The exact version of the packages and the environment used for the project can be found in [project environment](https://github.com/raoanonymous/sberbank_capstone/tree/master/environment).
 
 
 
